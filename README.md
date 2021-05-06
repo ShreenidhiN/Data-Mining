@@ -1,3 +1,7 @@
 # Data-Mining
 
-Exploratory Data Analysis of a Sample dataset
+ANALYSIS:
+
+  	Exploratory Data Analysis of datasets in python and R
+  	Implementation of apriori algorithm
+
